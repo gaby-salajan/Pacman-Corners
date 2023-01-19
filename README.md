@@ -1,5 +1,7 @@
 # Pacman-Corners
 
+![](im1.png)
+
 This app solves the problem of crossing all the corners in the context of the Pacman Framework, using A* as its search algorithm.
 
 To solve this problem, I implemented two heuristics:
